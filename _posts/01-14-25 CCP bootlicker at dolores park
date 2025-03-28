@@ -4,3 +4,21 @@ met a ccp bootlicking tech bro while lazing about dolores in SF. he was walking 
 
 like any good ccp bootlicker, he told me over dinner he rents from a chinese landlord in chinatown, lived in korea and china for x years.  he was shockingly open about being divorced to a 21 year old  girl he married when he was 25. he claims she cheated, but it’s obvious he has no social skills or probably any skills outside of pecking the keyboard and producing AI bot stuff to replace us all, happily doing so for some $300,000 per year package at some startup. 
 
+```tsql
+SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
+    , REVERSE('abc')
+FROM dbo.SomeTable s
+    CROSS JOIN dbo.OtherTable o;
+```
+
+#### Some PowerShell Code
+
+```powershell
+Write-Host "This is a powershell Code block";
+
+# There are many other languages you can use, but the style has to be loaded first
+
+ForEach ($thing in $things) {
+    Write-Output "It highlights it using the GitHub style"
+}
+```
